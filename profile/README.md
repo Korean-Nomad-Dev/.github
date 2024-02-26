@@ -1,6 +1,6 @@
 # 노마드 취업, 해외 취업, 외국계 기업 취업을 준비하는 한국인 개발자 모임.
 
-* 멤버만 접근가능합니다. 가입요청 : korean.nomad.dev@gmail.com
+* 멤버만 접근가능합니다. 초대요청 : korean.nomad.dev@gmail.com
   
 ## 주요 활동
 
