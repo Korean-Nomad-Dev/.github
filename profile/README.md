@@ -1,6 +1,6 @@
 # KND / 노마드 취업을 준비하는 한국인 개발자 모임.
 
-* 회원제 모임입니다. 깃헙계정을 메일로 알려주세요 : korean.nomad.dev@gmail.com
+* 회원제입니다. 가입을 원하시면 깃헙계정을 메일로 알려주세요 : korean.nomad.dev@gmail.com
   
 ## 주요 활동(예정)
 
