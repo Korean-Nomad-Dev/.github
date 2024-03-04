@@ -23,4 +23,4 @@
 
 ## 공식 문서
 
-https://github.com/orgs/Korean-Nomad-Dev/discussions
+https://github.com/Korean-Nomad-Dev/docs
