@@ -20,3 +20,7 @@
 5. [투표](https://github.com/orgs/Korean-Nomad-Dev/discussions/categories/5-%ED%88%AC%ED%91%9C)
 6. [Q&A](https://github.com/orgs/Korean-Nomad-Dev/discussions/categories/6-q-a)
 7. [코드리뷰 요청 게시판](https://github.com/orgs/Korean-Nomad-Dev/discussions/categories/7-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EC%9A%94%EC%B2%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90)
+
+## 공식 가이드 문서
+
+https://github.com/orgs/Korean-Nomad-Dev/discussions
